@@ -1,6 +1,38 @@
 [
     {
         "name": "Spribe",
+        "weight": 3,
+        "image": "https://i.postimg.cc/nhLZfDtJ/pgSoft.webp",
+        "games": [
+            {
+                "name": "Fortune Tiger",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-tiger_mrslotty_pgsoft_desktop_mobile_icon_1693443214437.gif",
+                "weight": 5
+            },
+            {
+                "name": "Fortune Ox",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/116d28508566a76905628411a821c164_casinoGameIcon3.webp",
+                "weight": 13
+            },
+            {
+                "name": "Fortune Rabbit",
+                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/08c1ea646e1a6bde4b572f2d878d1bfa_casinoGameIcon3.webp",
+                "weight": 3
+            },
+            {
+                "name": "Fortune Mouse",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-mouse_mrslotty_pgsoft_desktop_mobile_icon_1681118376083.webp",
+                "weight": 3
+            },
+            {
+                "name": "Dragon Hatch",
+                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-dragon-hatch_mrslotty_pgsoft_desktop_mobile_icon_1679993624975.webp",
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "name": "PG Soft",
         "weight": 2,
         "image": "https://i.postimg.cc/Ghddzf79/spribe.webp",
         "games": [
@@ -52,38 +84,6 @@
             {
                 "name": "Keno",
                 "image": "https://d1fojj4wte942r.cloudfront.net/e-games/keno_spribe_original_desktop_mobile_icon_1674045877812.webp",
-                "weight": 1
-            }
-        ]
-    },
-    {
-        "name": "PG Soft",
-        "weight": 3,
-        "image": "https://i.postimg.cc/nhLZfDtJ/pgSoft.webp",
-        "games": [
-            {
-                "name": "Fortune Tiger",
-                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-tiger_mrslotty_pgsoft_desktop_mobile_icon_1693443214437.gif",
-                "weight": 5
-            },
-            {
-                "name": "Fortune Ox",
-                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/116d28508566a76905628411a821c164_casinoGameIcon3.webp",
-                "weight": 13
-            },
-            {
-                "name": "Fortune Rabbit",
-                "image": "https://cmsbetconstruct.com/content/images/casino/icon3/08c1ea646e1a6bde4b572f2d878d1bfa_casinoGameIcon3.webp",
-                "weight": 3
-            },
-            {
-                "name": "Fortune Mouse",
-                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-fortune-mouse_mrslotty_pgsoft_desktop_mobile_icon_1681118376083.webp",
-                "weight": 3
-            },
-            {
-                "name": "Dragon Hatch",
-                "image": "https://d1fojj4wte942r.cloudfront.net/e-games/pgsoft-dragon-hatch_mrslotty_pgsoft_desktop_mobile_icon_1679993624975.webp",
                 "weight": 1
             }
         ]
