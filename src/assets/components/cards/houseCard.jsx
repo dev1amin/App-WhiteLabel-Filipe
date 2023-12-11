@@ -7,10 +7,10 @@ import { render } from 'react-dom';
 
 export function HouseCard({ data, setShowModal, currentHouse, setCurrentHouse, vipAccess, currentSupplier, setCurrentSupplier }) {
 
-    const [InBrazza, setInBrazza] = useState(null);
+    const [RealsBet, setRealsBet] = useState(null);
 
     useEffect(() => {
-    }, [InBrazza])
+    }, [RealsBet])
 
     function formatBigNumber(number) {
         if (number >= 1e6) {
@@ -52,21 +52,21 @@ export function HouseCard({ data, setShowModal, currentHouse, setCurrentHouse, v
 
     useEffect(() => {
         if (currentHouse != data.casino) {
-            setInBrazza(false)
+            setRealsBet(false)
         } else {
-            setInBrazza(true)
+            setRealsBet(true)
         }
     }, [currentHouse, currentSupplier])
 
     return (
         <>
             <div
-                className={InBrazza ? "houseCard selectCard card-enabled" : "houseCard selectCardBlocked card-enabled"}
+                className={RealsBet ? "houseCard selectCard card-enabled" : "houseCard selectCardBlocked card-enabled"}
                 onClick={handleCardClick}
             >
-                <div className={InBrazza ? "sc-content" : "sc-content-blocked"}>
-                    <img src={data.image} className={InBrazza ? "image" : "image-blocked"} />
-                    <div className={InBrazza ? "houseData" : "houseData lowopacity"}>
+                <div className={RealsBet ? "sc-content" : "sc-content-blocked"}>
+                    <img src={data.image} className={RealsBet ? "image" : "image-blocked"} />
+                    <div className={RealsBet ? "houseData" : "houseData lowopacity"}>
                         <Stats
                             title={'Pagamento'}
                             value={`R$ ${formatBigNumber(data.revenue * 0.2)}`}

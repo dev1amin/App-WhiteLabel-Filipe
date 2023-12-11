@@ -1,6 +1,6 @@
 [
   {
-    "casino": "InBrazza",
+    "casino": "RealsBet",
     "players": 12600000,
     "revenue": 48500000,
     "suppliers": [
@@ -12,5 +12,31 @@
     ],
     "image": "https://i.postimg.cc/sD9vK739/realsbet.webp",
     "link": "https://afiliado.realsbet.com/visit/?bta=73011&brand=realsbet"
+  },
+  {
+    "casino": "PlayPix",
+    "players": 22600000,
+    "revenue": 88500000,
+    "suppliers": [
+      "PG Soft",
+      "pragmaticplay",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://i.postimg.cc/TYXKrCv3/playpix.webp",
+    "link": "https://playpix.com/affiliates/?btag=1377880_l254164"
+  },
+  {
+    "casino": "SeuBet",
+    "players": 18600000,
+    "revenue": 48500000,
+    "suppliers": [
+      "PG Soft",
+      "pragmaticplay",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://static.springbuilder.site/fs/userFiles-v2/clubedasestrelas-18749911/images/logo.png?v=1684857384",
+    "link": "http://seubet.com/affiliates/?btag=1597859_l254166"
   }
 ]
