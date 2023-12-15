@@ -1,5 +1,18 @@
 [
   {
+    "casino": "SeuBet",
+    "players": 18600000,
+    "revenue": 48500000,
+    "suppliers": [
+      "PG Soft",
+      "pragmaticplay",
+      "Spribe",
+      "Evoplay"
+    ],
+    "image": "https://static.springbuilder.site/fs/userFiles-v2/clubedasestrelas-18749911/images/logo.png?v=1684857384",
+    "link": "https://static.springbuilder.site/fs/userFiles-v2/clubedasestrelas-18749911/images/563-bv-horizontal-16848573926466.webp"
+  },
+  {
     "casino": "RealsBet",
     "players": 12600000,
     "revenue": 48500000,
@@ -26,17 +39,4 @@
     "image": "https://i.postimg.cc/TYXKrCv3/playpix.webp",
     "link": "https://playpix.com/affiliates/?btag=1377880_l254164"
   },
-  {
-    "casino": "SeuBet",
-    "players": 18600000,
-    "revenue": 48500000,
-    "suppliers": [
-      "PG Soft",
-      "pragmaticplay",
-      "Spribe",
-      "Evoplay"
-    ],
-    "image": "https://static.springbuilder.site/fs/userFiles-v2/clubedasestrelas-18749911/images/logo.png?v=1684857384",
-    "link": "https://static.springbuilder.site/fs/userFiles-v2/clubedasestrelas-18749911/images/563-bv-horizontal-16848573926466.webp"
-  }
 ]

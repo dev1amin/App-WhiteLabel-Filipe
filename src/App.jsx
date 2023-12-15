@@ -27,7 +27,7 @@ function App() {
   const [vipAccess, setVipAccess] = useState(false)
   const [loaded, setLoaded] = useState(false)
   const [housesData, setHousesData] = useState(data);
-  const [currentHouse, setCurrentHouse] = useState('RealsBet')
+  const [currentHouse, setCurrentHouse] = useState('SeuBet')
   const [currentSupplier, setCurrentSupplier] = useState('Spribe')
   const hasNavigatedAway = useRef(false); // flag variable
 
